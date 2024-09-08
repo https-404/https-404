@@ -35,6 +35,4 @@
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=https-404&show_icons=true&locale=en&layout=compact" alt="https-404" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=https-404&show_icons=true&locale=en" alt="https-404" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=https-404&" alt="https-404" /></p>
