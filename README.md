@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">A passionate cross-platform developer from Islamabad, Pakistan</h3>
+<h3 align="center">Human who writes code and fears AI will takeover my Job.</h3>
 
 ---
 
