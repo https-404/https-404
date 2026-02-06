@@ -21,8 +21,8 @@
 - 🔭 I’m currently working on **cnnct and TrackFlow**  
 - 🌱 I’m learning **.NET | Angular | AWS**  
 - 👯 Looking to collaborate on **Trackflow**  
-- 💬 Ask me about **MERN | NESTjs | Nodejs | ORMs**  
-- 📫 Reach me at **areesh.192003@gmail.com**
+- 💬 Ask me about **MERN | NESTjs | Flutter | AWS**  
+- 📫 Reach me at **areesh.ali.abd@gmail.com**
 
 ---
 
